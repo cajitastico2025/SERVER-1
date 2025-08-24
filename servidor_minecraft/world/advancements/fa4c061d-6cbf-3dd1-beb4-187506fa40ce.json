@@ -255,6 +255,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-24 23:40:49 +0000",
       "cooked_mutton": "2025-08-24 23:01:29 +0000",
       "apple": "2025-08-24 04:49:19 +0000",
       "mutton": "2025-08-24 04:58:00 +0000",
@@ -331,6 +332,12 @@
       "redstone_caves": "2025-08-24 23:24:01 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-24 23:33:29 +0000"
+    },
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
