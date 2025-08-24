@@ -184,27 +184,34 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-08-24 22:56:04 +0000",
       "muddy_river": "2025-08-24 04:33:55 +0000",
+      "grassy_beach": "2025-08-24 22:55:07 +0000",
       "maple_forest": "2025-08-24 04:33:45 +0000",
       "boreal_forest": "2025-08-24 04:37:09 +0000",
       "cold_river": "2025-08-24 04:33:50 +0000",
-      "gravel_beach": "2025-08-24 04:40:00 +0000"
+      "gravel_beach": "2025-08-24 04:40:00 +0000",
+      "lupine_plains": "2025-08-24 22:55:18 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-08-24 22:56:04 +0000",
       "muddy_river": "2025-08-24 04:33:55 +0000",
+      "grassy_beach": "2025-08-24 22:55:07 +0000",
       "maple_forest": "2025-08-24 04:33:45 +0000",
       "boreal_forest": "2025-08-24 04:37:09 +0000",
       "cold_river": "2025-08-24 04:33:50 +0000",
-      "gravel_beach": "2025-08-24 04:40:00 +0000"
+      "gravel_beach": "2025-08-24 04:40:00 +0000",
+      "lupine_plains": "2025-08-24 22:55:18 +0000"
     },
     "done": false
   },
   "regions_unexplored:got_wood": {
     "criteria": {
       "larch_log": "2025-08-24 04:38:06 +0000",
+      "pine_log": "2025-08-24 22:59:19 +0000",
       "maple_log": "2025-08-24 04:35:12 +0000"
     },
     "done": false
@@ -290,6 +297,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-08-24 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-24 22:56:43 +0000"
     },
     "done": true
   },
