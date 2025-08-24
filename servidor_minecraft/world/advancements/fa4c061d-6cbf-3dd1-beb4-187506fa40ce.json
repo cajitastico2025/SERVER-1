@@ -199,6 +199,7 @@
     "criteria": {
       "pine_taiga": "2025-08-24 22:56:04 +0000",
       "muddy_river": "2025-08-24 04:33:55 +0000",
+      "redstone_caves": "2025-08-24 23:24:01 +0000",
       "grassy_beach": "2025-08-24 22:55:07 +0000",
       "maple_forest": "2025-08-24 04:33:45 +0000",
       "boreal_forest": "2025-08-24 04:37:09 +0000",
@@ -313,9 +314,27 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-24 23:26:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-08-24 22:26:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-24 23:24:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-24 23:25:49 +0000"
     },
     "done": true
   },
