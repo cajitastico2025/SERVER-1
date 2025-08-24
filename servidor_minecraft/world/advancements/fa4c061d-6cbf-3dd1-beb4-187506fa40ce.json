@@ -254,6 +254,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-24 23:01:29 +0000",
       "apple": "2025-08-24 04:49:19 +0000",
       "mutton": "2025-08-24 04:58:00 +0000",
       "bread": "2025-08-24 22:26:29 +0000",
@@ -297,6 +298,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-08-24 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-08-24 23:04:12 +0000"
     },
     "done": true
   },
