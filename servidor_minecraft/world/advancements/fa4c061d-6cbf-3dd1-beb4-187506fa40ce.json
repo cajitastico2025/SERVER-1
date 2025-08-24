@@ -157,6 +157,7 @@
       "minecraft:taiga": "2025-08-24 04:23:51 +0000",
       "minecraft:beach": "2025-08-24 04:33:26 +0000",
       "minecraft:river": "2025-08-24 04:31:58 +0000",
+      "minecraft:stony_shore": "2025-08-24 22:25:55 +0000",
       "minecraft:cold_ocean": "2025-08-24 04:40:02 +0000",
       "minecraft:forest": "2025-08-24 04:33:38 +0000",
       "minecraft:deep_cold_ocean": "2025-08-24 04:41:20 +0000"
@@ -248,6 +249,7 @@
     "criteria": {
       "apple": "2025-08-24 04:49:19 +0000",
       "mutton": "2025-08-24 04:58:00 +0000",
+      "bread": "2025-08-24 22:26:29 +0000",
       "suspicious_stew": "2025-08-24 05:03:31 +0000"
     },
     "done": false
@@ -288,6 +290,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-08-24 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-24 22:26:51 +0000"
     },
     "done": true
   },
