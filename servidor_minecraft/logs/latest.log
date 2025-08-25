@@ -1917,3 +1917,6 @@ ModdedBiomeSource (274b0137)
 [25Aug2025 02:07:11.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa4c061d-6cbf-3dd1-beb4-187506fa40ce
 [25Aug2025 02:07:12.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa4c061d-6cbf-3dd1-beb4-187506fa40ce
 [25Aug2025 02:07:12.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elcajudo (fa4c061d-6cbf-3dd1-beb4-187506fa40ce) successfully connected to voice chat
+[25Aug2025 02:27:17.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcajudo lost connection: Disconnected
+[25Aug2025 02:27:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcajudo left the game
+[25Aug2025 02:27:17.100] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elcajudo
