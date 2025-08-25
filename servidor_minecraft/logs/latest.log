@@ -1889,3 +1889,31 @@ ModdedBiomeSource (274b0137)
 [25Aug2025 01:53:12.679] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [25Aug2025 01:53:12.688] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at 10.242.39.218:24454
 [25Aug2025 01:53:12.688] [Server thread/WARN] [ModernFix/]: Dedicated server took 69.32 seconds to load
+[25Aug2025 02:07:03.791] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[25Aug2025 02:07:03.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcajudo[/10.242.252.56:53760] logged in with entity id 82 at (91.69999998807907, -7.0, -767.7557963723439)
+[25Aug2025 02:07:03.972] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[25Aug2025 02:07:03.986] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elcajudo
+[25Aug2025 02:07:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcajudo joined the game
+[25Aug2025 02:07:05.886] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elcajudo (18)
+[25Aug2025 02:07:05.887] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elcajudo
+[25Aug2025 02:07:05.913] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[25Aug2025 02:07:05.915] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[25Aug2025 02:07:05.918] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[25Aug2025 02:07:05.918] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[25Aug2025 02:07:05.919] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[25Aug2025 02:07:05.920] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[25Aug2025 02:07:05.921] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[25Aug2025 02:07:05.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[25Aug2025 02:07:05.922] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[25Aug2025 02:07:05.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[25Aug2025 02:07:05.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[25Aug2025 02:07:05.923] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[25Aug2025 02:07:05.924] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[25Aug2025 02:07:05.924] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[25Aug2025 02:07:05.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[25Aug2025 02:07:05.926] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[25Aug2025 02:07:05.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[25Aug2025 02:07:05.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[25Aug2025 02:07:11.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fa4c061d-6cbf-3dd1-beb4-187506fa40ce
+[25Aug2025 02:07:12.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fa4c061d-6cbf-3dd1-beb4-187506fa40ce
+[25Aug2025 02:07:12.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elcajudo (fa4c061d-6cbf-3dd1-beb4-187506fa40ce) successfully connected to voice chat
