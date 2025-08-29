@@ -321,5 +321,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-29 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/r_all_veggies": {
+    "criteria": {
+      "E": "2025-08-29 20:55:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-29 20:55:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
