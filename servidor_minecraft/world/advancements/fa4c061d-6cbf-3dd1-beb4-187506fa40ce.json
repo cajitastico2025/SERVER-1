@@ -146,7 +146,8 @@
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
-      "cold_river": "2025-08-26 22:02:23 +0000"
+      "cold_river": "2025-08-26 22:02:23 +0000",
+      "gravel_beach": "2025-08-29 23:25:26 +0000"
     },
     "done": false
   },
@@ -174,7 +175,8 @@
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
-      "cold_river": "2025-08-26 22:02:23 +0000"
+      "cold_river": "2025-08-26 22:02:23 +0000",
+      "gravel_beach": "2025-08-29 23:25:26 +0000"
     },
     "done": false
   },
@@ -205,6 +207,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-26 22:55:18 +0000",
+      "minecraft:spider": "2025-08-29 23:24:56 +0000",
       "minecraft:creeper": "2025-08-26 22:55:51 +0000",
       "minecraft:zombie": "2025-08-26 22:00:00 +0000",
       "minecraft:zombie_villager": "2025-08-29 21:23:31 +0000"
@@ -222,6 +225,7 @@
       "minecraft:beach": "2025-08-29 21:57:27 +0000",
       "minecraft:river": "2025-08-26 22:01:47 +0000",
       "minecraft:cold_ocean": "2025-08-29 20:53:30 +0000",
+      "minecraft:forest": "2025-08-29 23:25:16 +0000",
       "minecraft:plains": "2025-08-26 22:48:37 +0000"
     },
     "done": false
@@ -275,7 +279,8 @@
       "cooked_mutton": "2025-08-26 22:41:00 +0000",
       "apple": "2025-08-26 22:28:59 +0000",
       "bread": "2025-08-29 20:52:53 +0000",
-      "rotten_flesh": "2025-08-29 22:24:32 +0000"
+      "rotten_flesh": "2025-08-29 22:24:32 +0000",
+      "glow_berries": "2025-08-29 23:10:46 +0000"
     },
     "done": false
   },
@@ -355,6 +360,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-29 22:57:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-29 23:25:19 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_nettle": {
+    "criteria": {
+      "beer_nettle": "2025-08-29 23:19:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-29 23:20:54 +0000"
     },
     "done": true
   },

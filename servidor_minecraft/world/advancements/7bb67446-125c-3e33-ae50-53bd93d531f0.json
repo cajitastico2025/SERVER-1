@@ -196,6 +196,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-29 23:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-29 22:40:05 +0000"
@@ -217,6 +223,18 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-08-29 22:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-29 23:18:59 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2025-08-29 23:15:46 +0000"
     },
     "done": true
   },
@@ -279,6 +297,12 @@
   "brewery:main/get_beer_barley": {
     "criteria": {
       "beer_barley": "2025-08-29 22:51:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-29 23:14:49 +0000"
     },
     "done": true
   },
