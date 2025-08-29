@@ -253,6 +253,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-08-29 23:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-29 22:49:41 +0000",
