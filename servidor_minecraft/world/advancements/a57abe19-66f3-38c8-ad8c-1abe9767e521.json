@@ -232,6 +232,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-26 22:44:46 +0000",
       "apple": "2025-08-26 22:41:18 +0000",
+      "bread": "2025-08-29 21:09:15 +0000",
       "rotten_flesh": "2025-08-26 22:03:02 +0000",
       "beetroot": "2025-08-26 22:55:44 +0000"
     },
@@ -336,6 +337,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-08-29 20:55:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2025-08-29 21:11:22 +0000"
     },
     "done": true
   },
