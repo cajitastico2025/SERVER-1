@@ -5,19 +5,6 @@
     },
     "done": true
   },
-  "vinery:main/fruits_of_the_field": {
-    "criteria": {
-      "fruits_of_the_field": "2025-08-26 22:48:37 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-08-26 22:57:38 +0000",
-      "in_better_spider_dungeon": "2025-08-26 22:29:57 +0000"
-    },
-    "done": false
-  },
   "moredelight:combat/stone_knife": {
     "criteria": {
       "has_the_recipe": "2025-08-26 21:53:28 +0000"
@@ -27,84 +14,6 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-08-26 21:53:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "shrubland": "2025-08-26 22:02:04 +0000",
-      "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
-      "maple_forest": "2025-08-26 22:27:56 +0000",
-      "temperate_grove": "2025-08-26 21:53:29 +0000",
-      "cold_river": "2025-08-26 22:02:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-08-26 22:54:02 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/wild_harvest": {
-    "criteria": {
-      "red_grape_seeds": "2025-08-26 22:29:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-26 22:44:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-08-26 22:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-08-26 22:55:18 +0000",
-      "minecraft:creeper": "2025-08-26 22:55:51 +0000",
-      "minecraft:zombie": "2025-08-26 22:00:00 +0000"
-    },
-    "done": false
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-08-26 21:53:29 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2025-08-26 21:59:36 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-08-26 21:53:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-26 22:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-26 22:38:12 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-08-26 22:57:38 +0000"
     },
     "done": true
   },
@@ -120,25 +29,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-08-26 22:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-08-26 22:01:47 +0000",
-      "minecraft:plains": "2025-08-26 22:48:37 +0000"
-    },
-    "done": false
-  },
-  "farm_and_charm:main/root": {
-    "criteria": {
-      "example_criterion": "2025-08-26 21:53:29 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-08-26 21:53:28 +0000"
@@ -151,45 +41,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-08-26 22:46:38 +0000",
-      "cooked_mutton": "2025-08-26 22:41:00 +0000",
-      "apple": "2025-08-26 22:28:59 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "shrubland": "2025-08-26 22:02:04 +0000",
-      "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
-      "maple_forest": "2025-08-26 22:27:56 +0000",
-      "temperate_grove": "2025-08-26 21:53:29 +0000",
-      "cold_river": "2025-08-26 22:02:23 +0000"
-    },
-    "done": false
-  },
   "herbalbrews:main/root": {
     "criteria": {
       "seeds": "2025-08-26 21:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-08-26 22:28:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-26 22:27:13 +0000"
-    },
-    "done": true
-  },
-  "veggiesdelight:main/r_first_veggie": {
-    "criteria": {
-      "first": "2025-08-26 22:27:10 +0000"
     },
     "done": true
   },
@@ -205,12 +59,6 @@
     },
     "done": true
   },
-  "vinery:main/forbidden_fruit": {
-    "criteria": {
-      "apple": "2025-08-26 22:06:40 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-08-26 21:53:28 +0000"
@@ -223,46 +71,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-08-26 22:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-08-26 22:28:29 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-08-26 22:29:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "silver_birch_log": "2025-08-26 22:06:40 +0000",
-      "maple_log": "2025-08-26 22:06:40 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-08-26 22:27:10 +0000"
-    },
-    "done": true
-  },
   "candlelight:main/root": {
     "criteria": {
       "seeds": "2025-08-26 21:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-08-26 21:59:36 +0000"
     },
     "done": true
   },
@@ -290,12 +101,6 @@
       "wild_barley": "2025-08-26 21:53:28 +0000",
       "wild_onion": "2025-08-26 21:53:28 +0000",
       "wild_oat": "2025-08-26 21:53:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-08-26 21:53:29 +0000"
     },
     "done": true
   },
@@ -335,9 +140,204 @@
     },
     "done": true
   },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2025-08-26 22:02:04 +0000",
+      "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
+      "maple_forest": "2025-08-26 22:27:56 +0000",
+      "temperate_grove": "2025-08-26 21:53:29 +0000",
+      "cold_river": "2025-08-26 22:02:23 +0000"
+    },
+    "done": false
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-08-26 21:53:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-08-26 21:53:29 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-26 21:53:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2025-08-26 22:02:04 +0000",
+      "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
+      "maple_forest": "2025-08-26 22:27:56 +0000",
+      "temperate_grove": "2025-08-26 21:53:29 +0000",
+      "cold_river": "2025-08-26 22:02:23 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-08-26 21:53:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-08-26 21:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-26 21:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-26 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-26 22:55:18 +0000",
+      "minecraft:creeper": "2025-08-26 22:55:51 +0000",
+      "minecraft:zombie": "2025-08-26 22:00:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-26 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-26 22:01:47 +0000",
+      "minecraft:plains": "2025-08-26 22:48:37 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-08-26 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "silver_birch_log": "2025-08-26 22:06:40 +0000",
+      "maple_log": "2025-08-26 22:06:40 +0000"
+    },
+    "done": false
+  },
+  "veggiesdelight:main/r_first_veggie": {
+    "criteria": {
+      "first": "2025-08-26 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-26 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-26 22:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-26 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-26 22:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-08-26 22:46:38 +0000",
+      "cooked_mutton": "2025-08-26 22:41:00 +0000",
+      "apple": "2025-08-26 22:28:59 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-08-26 22:29:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-08-26 22:57:38 +0000",
+      "in_better_spider_dungeon": "2025-08-26 22:29:57 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-26 22:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-26 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-26 22:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-26 22:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-26 22:44:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-08-26 22:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-26 22:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-26 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-08-26 22:57:38 +0000"
     },
     "done": true
   },

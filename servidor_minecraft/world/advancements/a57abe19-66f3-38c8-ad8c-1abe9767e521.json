@@ -237,27 +237,15 @@
     },
     "done": false
   },
-  "vinery:main/fruits_of_the_field": {
-    "criteria": {
-      "fruits_of_the_field": "2025-08-26 22:48:29 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-08-26 22:32:02 +0000"
-    },
-    "done": false
-  },
   "herbalbrews:main/find_tea_blossom": {
     "criteria": {
       "tea_blossom": "2025-08-26 22:25:16 +0000"
     },
     "done": true
   },
-  "vinery:main/wild_harvest": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "red_grape_seeds": "2025-08-26 22:52:56 +0000"
+      "get_stone": "2025-08-26 22:28:29 +0000"
     },
     "done": true
   },
@@ -267,41 +255,17 @@
     },
     "done": true
   },
-  "candlelight:main/find_rose": {
+  "minecraft:story/root": {
     "criteria": {
-      "rose": "2025-08-26 22:46:27 +0000"
+      "crafting_table": "2025-08-26 22:29:32 +0000"
     },
     "done": true
   },
-  "brewery:main/wild_crops": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "hops_seeds": "2025-08-26 22:44:21 +0000"
+      "in_better_spider_dungeon": "2025-08-26 22:32:02 +0000"
     },
     "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-08-26 22:28:29 +0000"
-    },
-    "done": true
-  },
-  "veggiesdelight:main/r_first_veggie": {
-    "criteria": {
-      "first": "2025-08-26 22:44:06 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/forbidden_fruit": {
-    "criteria": {
-      "apple": "2025-08-26 22:38:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-08-26 22:47:07 +0000"
-    },
-    "done": true
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
@@ -315,9 +279,45 @@
     },
     "done": false
   },
-  "minecraft:story/root": {
+  "vinery:main/forbidden_fruit": {
     "criteria": {
-      "crafting_table": "2025-08-26 22:29:32 +0000"
+      "apple": "2025-08-26 22:38:20 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/r_first_veggie": {
+    "criteria": {
+      "first": "2025-08-26 22:44:06 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-08-26 22:44:21 +0000"
+    },
+    "done": false
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2025-08-26 22:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-26 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-08-26 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-08-26 22:52:56 +0000"
     },
     "done": true
   },
