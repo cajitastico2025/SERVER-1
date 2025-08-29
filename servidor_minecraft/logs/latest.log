@@ -2052,3 +2052,108 @@ ModdedBiomeSource (3fed9b45)
 [29Aug2025 21:56:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> ... ..
 [29Aug2025 21:56:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> 300 -19 429
 [29Aug2025 22:04:14.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fd18801[id=<null>,name=Ezreaaal,properties={},legacy=false] (/10.242.47.0:60059) lost connection: Disconnected
+[29Aug2025 22:12:30.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@468fe3d2[id=<null>,name=Ezreaaal,properties={},legacy=false] (/10.242.47.0:60556) lost connection: Disconnected
+[29Aug2025 22:12:42.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezreaaal[/10.242.47.0:60591] logged in with entity id 48030 at (-20.5, 64.0, -41.5)
+[29Aug2025 22:12:42.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:12:42.536] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezreaaal
+[29Aug2025 22:12:42.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal joined the game
+[29Aug2025 22:12:44.319] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ezreaaal (18)
+[29Aug2025 22:12:44.320] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ezreaaal
+[29Aug2025 22:12:44.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:12:44.320] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:12:44.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:12:44.334] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:12:44.335] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:12:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> HOLAAAA
+[29Aug2025 22:12:51.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:12:52.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:12:52.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezreaaal (7bb67446-125c-3e33-ae50-53bd93d531f0) successfully connected to voice chat
+[29Aug2025 22:12:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> Necesito que hagas algo va?
+[29Aug2025 22:13:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> Primero escribe aca
+[29Aug2025 22:13:33.322] [Netty Epoll Server IO #3/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Client requested 2 Files:
+[29Aug2025 22:13:33.323] [Netty Epoll Server IO #3/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items
+[29Aug2025 22:13:33.323] [Netty Epoll Server IO #3/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[29Aug2025 22:13:33.324] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending 2 Files to Client:
+[29Aug2025 22:13:33.324] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[29Aug2025 22:13:33.324] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- bclib.CONFIG_betternether.biomes (7.1 KiB)
+[29Aug2025 22:13:35.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezreaaal lost connection: Disconnected
+[29Aug2025 22:13:35.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal left the game
+[29Aug2025 22:13:35.524] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ezreaaal
+[29Aug2025 22:14:10.577] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [kiwi:main,carryon:carryonpackets,guardvillagers:main,citadel:main_channel,platform:networking,taxtg:taxtg,explosiveenhancement:main_channel,aquaculturedelight:aquaculturedelight,particlerain:main,minecraft:treechop-channel,crittersandcompanions:main,callablehorses:callablehorseschannel,ribbits:messages,alexsmobs:main_channel,quark:main,paraglider:master,yungscavebiomes:messages,creativecore:main,sophisticatedcore:channel,villagersellanimals:villagersellanimals,quarkdelight:quarkdelight,sophisticatedstorage:channel,williams_hedgehogs:williams_hedgehogs,zeta:main,delightful:main,blueprint:net,geckolib:main,waystones:network] rejected their client side version number
+[29Aug2025 22:14:10.577] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[29Aug2025 22:14:10.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@431ee881[id=<null>,name=acamilarey,properties={},legacy=false] (/10.242.164.101:53927) lost connection: Connection closed - mismatched mod channel list
+[29Aug2025 22:15:42.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezreaaal[/10.242.47.0:60813] logged in with entity id 49595 at (-20.5, 64.0, -41.5)
+[29Aug2025 22:15:42.782] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:15:42.787] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezreaaal
+[29Aug2025 22:15:42.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal joined the game
+[29Aug2025 22:15:44.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ezreaaal (18)
+[29Aug2025 22:15:44.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ezreaaal
+[29Aug2025 22:15:44.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:15:44.766] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:15:44.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:15:44.768] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:15:52.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:15:53.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:15:53.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezreaaal (7bb67446-125c-3e33-ae50-53bd93d531f0) successfully connected to voice chat
+[29Aug2025 22:16:54.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ezreaaal lost connection: Disconnected
+[29Aug2025 22:16:54.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal left the game
+[29Aug2025 22:16:54.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ezreaaal
+[29Aug2025 22:16:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> 300 -19 429
+[29Aug2025 22:24:33.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ezreaaal[/10.242.47.0:61386] logged in with entity id 53664 at (-15.699999988079071, 62.0, -42.30000001192093)
+[29Aug2025 22:24:33.927] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:24:33.932] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ezreaaal
+[29Aug2025 22:24:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal joined the game
+[29Aug2025 22:24:34.232] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ezreaaal (18)
+[29Aug2025 22:24:34.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ezreaaal
+[29Aug2025 22:24:34.365] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:24:34.365] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:24:34.365] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:24:34.365] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:24:34.366] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:24:34.367] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:24:34.367] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:24:34.367] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:24:34.367] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:24:34.367] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:24:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> que onda
+[29Aug2025 22:24:42.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:24:43.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7bb67446-125c-3e33-ae50-53bd93d531f0
+[29Aug2025 22:24:43.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ezreaaal (7bb67446-125c-3e33-ae50-53bd93d531f0) successfully connected to voice chat
+[29Aug2025 22:24:59.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> dele escape, configuracion,graficos
+[29Aug2025 22:25:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> 10 chunks y de simulacion
+[29Aug2025 22:25:25.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> y 60fps

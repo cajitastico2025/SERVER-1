@@ -1,0 +1,180 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/stone_knife": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/root": {
+    "criteria": {
+      "veggies": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-08-29 22:12:42 +0000",
+      "wild_strawberry": "2025-08-29 22:12:42 +0000",
+      "corn": "2025-08-29 22:12:42 +0000",
+      "onion": "2025-08-29 22:12:42 +0000",
+      "wild_corn": "2025-08-29 22:12:42 +0000",
+      "wild_ribwort": "2025-08-29 22:12:42 +0000",
+      "strawberry": "2025-08-29 22:12:42 +0000",
+      "wild_nettle": "2025-08-29 22:12:42 +0000",
+      "barley": "2025-08-29 22:12:42 +0000",
+      "tomato": "2025-08-29 22:12:42 +0000",
+      "lettuce": "2025-08-29 22:12:42 +0000",
+      "wild_lettuce": "2025-08-29 22:12:42 +0000",
+      "wild_tomatoes": "2025-08-29 22:12:42 +0000",
+      "oat_seeds": "2025-08-29 22:12:42 +0000",
+      "tomato_seeds": "2025-08-29 22:12:42 +0000",
+      "barley_seeds": "2025-08-29 22:12:42 +0000",
+      "strawberry_seeds": "2025-08-29 22:12:42 +0000",
+      "lettuce_seeds": "2025-08-29 22:12:42 +0000",
+      "kernels": "2025-08-29 22:12:42 +0000",
+      "wild_barley": "2025-08-29 22:12:42 +0000",
+      "wild_onion": "2025-08-29 22:12:42 +0000",
+      "wild_oat": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "temperate_grove": "2025-08-29 22:12:43 +0000"
+    },
+    "done": false
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-08-29 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-08-29 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-08-29 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "temperate_grove": "2025-08-29 22:12:43 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-08-29 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
