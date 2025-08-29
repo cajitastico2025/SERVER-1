@@ -143,7 +143,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-08-29 22:55:26 +0000",
-      "temperate_grove": "2025-08-29 22:32:13 +0000"
+      "autumnal_maple_forest": "2025-08-29 22:58:08 +0000",
+      "temperate_grove": "2025-08-29 22:32:13 +0000",
+      "cold_river": "2025-08-29 22:58:05 +0000"
     },
     "done": false
   },
@@ -168,7 +170,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-08-29 22:55:26 +0000",
-      "temperate_grove": "2025-08-29 22:32:13 +0000"
+      "autumnal_maple_forest": "2025-08-29 22:58:08 +0000",
+      "temperate_grove": "2025-08-29 22:32:13 +0000",
+      "cold_river": "2025-08-29 22:58:05 +0000"
     },
     "done": false
   },
@@ -177,6 +181,18 @@
       "load_in_world": "2025-08-29 22:32:13 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-29 22:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-29 22:58:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
