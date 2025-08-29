@@ -216,6 +216,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-08-29 23:34:27 +0000",
       "minecraft:zombie": "2025-08-29 22:39:00 +0000"
     },
     "done": false
@@ -254,7 +255,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-08-29 22:49:41 +0000"
+      "apple": "2025-08-29 22:49:41 +0000",
+      "rotten_flesh": "2025-08-29 23:33:49 +0000"
     },
     "done": false
   },
@@ -303,6 +305,12 @@
   "vinery:main/cherry_picker": {
     "criteria": {
       "cherry": "2025-08-29 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-29 23:30:59 +0000"
     },
     "done": true
   },

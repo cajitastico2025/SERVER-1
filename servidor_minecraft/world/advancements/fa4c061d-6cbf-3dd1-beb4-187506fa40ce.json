@@ -142,9 +142,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-29 23:28:03 +0000",
       "shrubland": "2025-08-26 22:02:04 +0000",
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
+      "willow_forest": "2025-08-29 23:25:45 +0000",
+      "grassy_beach": "2025-08-29 23:26:21 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
+      "magnolia_highlands": "2025-08-29 23:26:39 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
       "cold_river": "2025-08-26 22:02:23 +0000",
       "gravel_beach": "2025-08-29 23:25:26 +0000"
@@ -171,9 +175,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-29 23:28:03 +0000",
       "shrubland": "2025-08-26 22:02:04 +0000",
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
+      "willow_forest": "2025-08-29 23:25:45 +0000",
+      "grassy_beach": "2025-08-29 23:26:21 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
+      "magnolia_highlands": "2025-08-29 23:26:39 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
       "cold_river": "2025-08-26 22:02:23 +0000",
       "gravel_beach": "2025-08-29 23:25:26 +0000"
