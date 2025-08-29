@@ -176,5 +176,35 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-08-29 22:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-29 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-29 22:32:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-08-29 22:29:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-29 22:30:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
