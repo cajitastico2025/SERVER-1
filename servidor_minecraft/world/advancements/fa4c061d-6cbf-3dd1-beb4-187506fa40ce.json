@@ -206,7 +206,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-26 22:55:18 +0000",
       "minecraft:creeper": "2025-08-26 22:55:51 +0000",
-      "minecraft:zombie": "2025-08-26 22:00:00 +0000"
+      "minecraft:zombie": "2025-08-26 22:00:00 +0000",
+      "minecraft:zombie_villager": "2025-08-29 21:23:31 +0000"
     },
     "done": false
   },
