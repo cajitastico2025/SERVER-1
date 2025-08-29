@@ -2281,3 +2281,129 @@ ModdedBiomeSource (3fed9b45)
 [29Aug2025 22:45:49.440] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
 [29Aug2025 22:45:49.444] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player acamilarey
 [29Aug2025 22:45:49.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey joined the game
+[29Aug2025 22:45:55.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of acamilarey (18)
+[29Aug2025 22:45:55.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to acamilarey
+[29Aug2025 22:45:56.090] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:45:56.090] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:45:56.091] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:45:56.091] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:45:56.092] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:45:56.092] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:45:56.093] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:45:56.093] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:45:56.093] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:45:56.094] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:45:56.094] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:45:56.095] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:45:56.095] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:45:56.096] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:45:56.096] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:45:56.096] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:45:56.096] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:45:56.096] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:46:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal fell from a high place
+[29Aug2025 22:46:26.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: acamilarey lost connection: Disconnected
+[29Aug2025 22:46:26.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey left the game
+[29Aug2025 22:46:26.071] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client acamilarey
+[29Aug2025 22:46:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> TEORICAMENTE te dice
+[29Aug2025 22:47:10.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: acamilarey[/10.242.164.101:55582] logged in with entity id 71347 at (-8.5, 66.0, -54.5)
+[29Aug2025 22:47:10.833] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:47:10.837] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player acamilarey
+[29Aug2025 22:47:10.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey joined the game
+[29Aug2025 22:47:11.429] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of acamilarey (18)
+[29Aug2025 22:47:11.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to acamilarey
+[29Aug2025 22:47:13.388] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:47:13.388] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:47:13.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:47:13.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:47:29.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2ef35b7-6dce-3846-98a3-cae1593a34b9
+[29Aug2025 22:47:30.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2ef35b7-6dce-3846-98a3-cae1593a34b9
+[29Aug2025 22:47:30.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player acamilarey (a2ef35b7-6dce-3846-98a3-cae1593a34b9) successfully connected to voice chat
+[29Aug2025 22:48:01.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal has made the advancement [Fruits of the Field]
+[29Aug2025 22:48:47.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ezreaaal has made the advancement [Forbidden Fruit]
+[29Aug2025 22:49:08.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a2ef35b7-6dce-3846-98a3-cae1593a34b9 timed out
+[29Aug2025 22:49:08.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player acamilarey
+[29Aug2025 22:49:08.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to acamilarey
+[29Aug2025 22:49:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: acamilarey lost connection: Timed out
+[29Aug2025 22:49:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey left the game
+[29Aug2025 22:49:11.070] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client acamilarey
+[29Aug2025 22:50:41.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: acamilarey[/10.242.164.101:55757] logged in with entity id 76086 at (-8.5, 66.0, -54.5)
+[29Aug2025 22:50:41.431] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:50:41.435] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player acamilarey
+[29Aug2025 22:50:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey joined the game
+[29Aug2025 22:50:42.137] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of acamilarey (18)
+[29Aug2025 22:50:42.137] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to acamilarey
+[29Aug2025 22:50:50.233] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:50:50.233] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:50:50.234] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:50:50.242] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:50:50.242] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:50:50.243] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:51:20.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: acamilarey lost connection: Timed out
+[29Aug2025 22:51:20.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey left the game
+[29Aug2025 22:51:20.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client acamilarey
+[29Aug2025 22:52:07.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: acamilarey[/10.242.164.101:55837] logged in with entity id 77424 at (-8.5, 66.0, -54.5)
+[29Aug2025 22:52:07.190] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[29Aug2025 22:52:07.194] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player acamilarey
+[29Aug2025 22:52:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: acamilarey joined the game
+[29Aug2025 22:52:07.624] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of acamilarey (18)
+[29Aug2025 22:52:07.625] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to acamilarey
+[29Aug2025 22:52:08.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[29Aug2025 22:52:08.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[29Aug2025 22:52:08.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[29Aug2025 22:52:08.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[29Aug2025 22:52:08.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/SERVER-1/servidor_minecraft/bclib-sync (allowDelete=true)
+[29Aug2025 22:52:15.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a2ef35b7-6dce-3846-98a3-cae1593a34b9
+[29Aug2025 22:52:16.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a2ef35b7-6dce-3846-98a3-cae1593a34b9
+[29Aug2025 22:52:16.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player acamilarey (a2ef35b7-6dce-3846-98a3-cae1593a34b9) successfully connected to voice chat
+[29Aug2025 22:53:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaylin_207 has reached the goal [Plant Food]
+[29Aug2025 22:53:24.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> gansuas
+[29Aug2025 22:53:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> SI
+[29Aug2025 22:53:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> SI XD
+[29Aug2025 22:53:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> JAJA UST SI LO IDENTIFICO JAZ NO
+[29Aug2025 22:53:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> JAJAJAJ
+[29Aug2025 22:54:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> Le mande hace 2 dias una fto no dijo nada xd
+[29Aug2025 22:54:13.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> emocion 0
+[29Aug2025 22:55:12.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> Ah y que sepan que pueden mejorar los cofres
+[29Aug2025 22:55:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> para que no tengan capacidad de 64 bloques max de algo sino hazta maximo como 364
+[29Aug2025 22:55:59.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> pasenme cords
+[29Aug2025 22:56:02.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcajudo> YA SALI

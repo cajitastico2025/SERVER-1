@@ -330,9 +330,16 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-08-29 22:53:11 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/r_all_veggies": {
     "criteria": {
-      "E": "2025-08-29 20:55:27 +0000"
+      "E": "2025-08-29 20:55:27 +0000",
+      "F": "2025-08-29 22:54:32 +0000"
     },
     "done": false
   },

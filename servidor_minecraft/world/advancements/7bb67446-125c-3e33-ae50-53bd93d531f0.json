@@ -144,7 +144,9 @@
     "criteria": {
       "shrubland": "2025-08-29 22:38:09 +0000",
       "pine_taiga": "2025-08-29 22:39:22 +0000",
-      "temperate_grove": "2025-08-29 22:12:43 +0000"
+      "autumnal_maple_forest": "2025-08-29 22:47:22 +0000",
+      "temperate_grove": "2025-08-29 22:12:43 +0000",
+      "cold_river": "2025-08-29 22:47:38 +0000"
     },
     "done": false
   },
@@ -170,13 +172,27 @@
     "criteria": {
       "shrubland": "2025-08-29 22:38:09 +0000",
       "pine_taiga": "2025-08-29 22:39:22 +0000",
-      "temperate_grove": "2025-08-29 22:12:43 +0000"
+      "autumnal_maple_forest": "2025-08-29 22:47:22 +0000",
+      "temperate_grove": "2025-08-29 22:12:43 +0000",
+      "cold_river": "2025-08-29 22:47:38 +0000"
     },
     "done": false
   },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-08-29 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-08-29 22:48:01 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-08-29 22:50:58 +0000"
     },
     "done": true
   },
@@ -212,13 +228,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-08-29 22:45:03 +0000"
+      "minecraft:beach": "2025-08-29 22:49:15 +0000",
+      "minecraft:river": "2025-08-29 22:45:03 +0000",
+      "minecraft:plains": "2025-08-29 22:48:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-08-29 22:49:41 +0000"
     },
     "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-29 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-29 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-08-29 22:48:47 +0000"
     },
     "done": true
   },
@@ -237,6 +273,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-29 22:30:49 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-08-29 22:51:17 +0000"
     },
     "done": true
   },

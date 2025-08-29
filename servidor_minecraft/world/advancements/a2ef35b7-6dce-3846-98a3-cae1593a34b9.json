@@ -142,6 +142,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-08-29 22:55:26 +0000",
       "temperate_grove": "2025-08-29 22:32:13 +0000"
     },
     "done": false
@@ -166,6 +167,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-08-29 22:55:26 +0000",
       "temperate_grove": "2025-08-29 22:32:13 +0000"
     },
     "done": false
