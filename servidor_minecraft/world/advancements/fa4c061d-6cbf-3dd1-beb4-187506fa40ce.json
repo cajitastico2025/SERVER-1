@@ -144,16 +144,23 @@
     "criteria": {
       "silver_birch_forest": "2025-08-29 23:28:03 +0000",
       "shrubland": "2025-08-26 22:02:04 +0000",
+      "pine_taiga": "2025-08-30 00:00:37 +0000",
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
       "muddy_river": "2025-08-29 23:50:59 +0000",
       "willow_forest": "2025-08-29 23:25:45 +0000",
       "grassy_beach": "2025-08-29 23:26:21 +0000",
+      "ochard": "2025-08-29 23:57:51 +0000",
+      "highland_fields": "2025-08-30 00:07:38 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
       "magnolia_highlands": "2025-08-29 23:26:39 +0000",
+      "mountains": "2025-08-29 23:58:59 +0000",
+      "sparse_redwoods": "2025-08-30 00:17:44 +0000",
       "boreal_forest": "2025-08-29 23:50:29 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
       "cold_river": "2025-08-26 22:02:23 +0000",
+      "pine_slopes": "2025-08-29 23:59:47 +0000",
       "gravel_beach": "2025-08-29 23:25:26 +0000",
+      "redwoods": "2025-08-30 00:17:27 +0000",
       "lupine_plains": "2025-08-29 23:51:22 +0000"
     },
     "done": false
@@ -180,16 +187,23 @@
     "criteria": {
       "silver_birch_forest": "2025-08-29 23:28:03 +0000",
       "shrubland": "2025-08-26 22:02:04 +0000",
+      "pine_taiga": "2025-08-30 00:00:37 +0000",
       "autumnal_maple_forest": "2025-08-26 22:02:12 +0000",
       "muddy_river": "2025-08-29 23:50:59 +0000",
       "willow_forest": "2025-08-29 23:25:45 +0000",
       "grassy_beach": "2025-08-29 23:26:21 +0000",
+      "ochard": "2025-08-29 23:57:51 +0000",
+      "highland_fields": "2025-08-30 00:07:38 +0000",
       "maple_forest": "2025-08-26 22:27:56 +0000",
       "magnolia_highlands": "2025-08-29 23:26:39 +0000",
+      "mountains": "2025-08-29 23:58:59 +0000",
+      "sparse_redwoods": "2025-08-30 00:17:44 +0000",
       "boreal_forest": "2025-08-29 23:50:29 +0000",
       "temperate_grove": "2025-08-26 21:53:29 +0000",
       "cold_river": "2025-08-26 22:02:23 +0000",
+      "pine_slopes": "2025-08-29 23:59:47 +0000",
       "gravel_beach": "2025-08-29 23:25:26 +0000",
+      "redwoods": "2025-08-30 00:17:27 +0000",
       "lupine_plains": "2025-08-29 23:51:22 +0000"
     },
     "done": false
@@ -239,9 +253,12 @@
       "minecraft:taiga": "2025-08-29 23:54:06 +0000",
       "minecraft:birch_forest": "2025-08-29 23:54:00 +0000",
       "minecraft:beach": "2025-08-29 21:57:27 +0000",
+      "minecraft:sparse_jungle": "2025-08-30 00:17:14 +0000",
       "minecraft:river": "2025-08-26 22:01:47 +0000",
       "minecraft:cold_ocean": "2025-08-29 20:53:30 +0000",
       "minecraft:forest": "2025-08-29 23:25:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-30 00:00:53 +0000",
+      "minecraft:savanna": "2025-08-30 00:12:17 +0000",
       "minecraft:plains": "2025-08-26 22:48:37 +0000"
     },
     "done": false
@@ -254,6 +271,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-08-30 00:19:59 +0000",
       "silver_birch_log": "2025-08-26 22:06:40 +0000",
       "maple_log": "2025-08-26 22:06:40 +0000"
     },

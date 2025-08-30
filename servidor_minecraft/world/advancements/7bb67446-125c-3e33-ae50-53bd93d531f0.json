@@ -145,8 +145,13 @@
       "shrubland": "2025-08-29 22:38:09 +0000",
       "pine_taiga": "2025-08-29 22:39:22 +0000",
       "autumnal_maple_forest": "2025-08-29 22:47:22 +0000",
+      "willow_forest": "2025-08-29 23:58:48 +0000",
+      "grassy_beach": "2025-08-29 23:59:00 +0000",
+      "maple_forest": "2025-08-29 23:58:45 +0000",
+      "magnolia_highlands": "2025-08-29 23:59:29 +0000",
       "temperate_grove": "2025-08-29 22:12:43 +0000",
-      "cold_river": "2025-08-29 22:47:38 +0000"
+      "cold_river": "2025-08-29 22:47:38 +0000",
+      "gravel_beach": "2025-08-29 23:58:41 +0000"
     },
     "done": false
   },
@@ -173,8 +178,13 @@
       "shrubland": "2025-08-29 22:38:09 +0000",
       "pine_taiga": "2025-08-29 22:39:22 +0000",
       "autumnal_maple_forest": "2025-08-29 22:47:22 +0000",
+      "willow_forest": "2025-08-29 23:58:48 +0000",
+      "grassy_beach": "2025-08-29 23:59:00 +0000",
+      "maple_forest": "2025-08-29 23:58:45 +0000",
+      "magnolia_highlands": "2025-08-29 23:59:29 +0000",
       "temperate_grove": "2025-08-29 22:12:43 +0000",
-      "cold_river": "2025-08-29 22:47:38 +0000"
+      "cold_river": "2025-08-29 22:47:38 +0000",
+      "gravel_beach": "2025-08-29 23:58:41 +0000"
     },
     "done": false
   },
@@ -195,6 +205,12 @@
       "beer_hops": "2025-08-29 22:50:58 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-30 00:00:54 +0000"
+    },
+    "done": false
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -239,9 +255,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-30 00:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-08-29 22:39:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-29 23:57:38 +0000"
     },
     "done": true
   },
@@ -250,6 +278,7 @@
       "minecraft:beach": "2025-08-29 22:49:15 +0000",
       "minecraft:river": "2025-08-29 22:45:03 +0000",
       "minecraft:cold_ocean": "2025-08-29 23:51:32 +0000",
+      "minecraft:forest": "2025-08-29 23:58:30 +0000",
       "minecraft:plains": "2025-08-29 22:48:01 +0000"
     },
     "done": false
@@ -262,7 +291,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-30 00:01:25 +0000",
       "apple": "2025-08-29 22:49:41 +0000",
+      "cooked_cod": "2025-08-30 00:08:38 +0000",
       "rotten_flesh": "2025-08-29 23:33:49 +0000"
     },
     "done": false
@@ -291,8 +322,15 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-30 00:00:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-08-29 23:59:51 +0000",
       "maple_log": "2025-08-29 22:29:18 +0000"
     },
     "done": false
